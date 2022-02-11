@@ -30,7 +30,7 @@ git clone https://github.com/hacksman/shino
 
 - 安装依赖
 ```shell script
-pip instal requirements.txt
+pip instal -r requirements.txt
 ```
 
 - 运行服务
